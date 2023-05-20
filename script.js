@@ -1,6 +1,6 @@
 // RESOLUÇÃO DOS EXERCÍCIOS:
 
-// EXERCÍCIO 1
+// EXERCÍCIO 3
 
 let idade = prompt('Informe a sua idade');
 
@@ -12,3 +12,14 @@ else {
 }
 
 
+// EXERCÍCIO 4
+
+sexo = "feminino";
+
+switch (sexo) {
+    case "feminino":
+        console.log('Bem vinda!')
+        break;
+    default:
+        console.log('Bem vindo!')
+}
