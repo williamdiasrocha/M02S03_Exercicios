@@ -31,3 +31,11 @@ for (let index = 0; index < 08; index++) {
     console.log("O valor da minha casa é: " + index);    
 }
 
+// EXERCÍCIO 6
+
+let tabuada = 0;
+
+while ( tabuada < 11 ) {
+    console.log("7 x " + tabuada + "= " + 7*tabuada);
+    tabuada++;
+}
