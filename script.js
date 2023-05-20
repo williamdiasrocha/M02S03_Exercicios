@@ -39,3 +39,13 @@ while ( tabuada < 11 ) {
     console.log("7 x " + tabuada + "= " + 7*tabuada);
     tabuada++;
 }
+
+// Exercício 7
+
+let index = 0;
+
+do {
+    console.log("baixando seu arquivo... tentativa: ", index);
+    index++;
+} while (index <= 10);
+
