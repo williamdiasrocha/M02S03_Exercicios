@@ -23,3 +23,11 @@ switch (sexo) {
     default:
         console.log('Bem vindo!')
 }
+
+
+// EXERCÍCIO 5
+
+for (let index = 0; index < 08; index++) {
+    console.log("O valor da minha casa é: " + index);    
+}
+
