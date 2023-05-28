@@ -69,3 +69,8 @@ console.log("Espere cinco segundos para a descobrir!");
 
  // Exercicio 10
 
+ var clique = document.querySelector('button').addEventListener('click',MudarBackground);
+  function MudarBackground(){
+      var body = document.querySelector('body');
+      body.style.background = 'blue';
+ }
