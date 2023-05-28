@@ -61,10 +61,11 @@ var time = 3;
 
 // Exercício 9
 
-console.log("Espere cinco segundos para a surpresa!");
+console.log("Espere cinco segundos para a descobrir!");
  const timeOut = setTimeout(Mensagem, 5000);
  function Mensagem(){
-     console.log("Obrigado por esperar HEHEHE.");
+     console.log("Obrigado por ficar esperando.");
  }
 
- 
+ // Exercicio 10
+
