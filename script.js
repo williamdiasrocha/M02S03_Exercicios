@@ -49,3 +49,13 @@ do {
     index++;
 } while (index <= 10);
 
+// Exercício 8
+
+var time = 3;
+     for(var i = 0; i < time; i++){
+         setInterval(() => {
+             console.log("Hello World.")
+         }, 3000);
+     }
+
+
